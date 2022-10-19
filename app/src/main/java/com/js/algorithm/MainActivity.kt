@@ -1,4 +1,4 @@
-package com.js.myapplication
+package com.js.algorithm
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
