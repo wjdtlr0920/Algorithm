@@ -30,6 +30,8 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_app_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/Downloads/gradle-7.0.2/caches/transforms-3/9eb9adba58ce1327518f424629be187f/transformed/material-1.6.1-api.jar</arg>
                 <arg>$USER_HOME$/Downloads/gradle-7.0.2/caches/transforms-3/8f487ca8e30ea39769697c0f8d3f2be4/transformed/appcompat-1.5.1-api.jar</arg>
                 <arg>$USER_HOME$/Downloads/gradle-7.0.2/caches/transforms-3/04c465dbe64398498de56497770d3926/transformed/viewpager2-1.0.0-api.jar</arg>
