@@ -1,12 +1,6 @@
 package com.js.algorithm
 
-import android.os.Build.VERSION_CODES.N
-import android.os.Build.VERSION_CODES.S
-import kotlinx.coroutines.yield
 import org.junit.Test
-import java.math.BigInteger
-import java.util.*
-import kotlin.math.sqrt
 
 class Level2 {
 

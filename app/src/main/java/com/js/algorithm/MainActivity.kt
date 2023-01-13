@@ -1,31 +1,12 @@
 package com.js.algorithm
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import android.view.WindowManager
 import androidx.annotation.IdRes
-import androidx.appcompat.app.AlertDialog
-import androidx.appcompat.widget.AlertDialogLayout
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.os.bundleOf
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentContainerView
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.delay
-import kotlinx.coroutines.launch
-import okhttp3.Interceptor
-import okhttp3.OkHttpClient
-import okhttp3.logging.HttpLoggingInterceptor
-import org.json.JSONObject
-import retrofit2.Retrofit
-import retrofit2.converter.gson.GsonConverterFactory
-import retrofit2.converter.scalars.ScalarsConverterFactory
-import java.io.FileNotFoundException
-import java.io.IOException
-import java.lang.reflect.Method
-import java.util.concurrent.TimeUnit
-import kotlin.math.nextDown
 
 class MainActivity : AppCompatActivity() {
 
